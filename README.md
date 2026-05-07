@@ -1,0 +1,1 @@
+To build the main solution & GPU solution, run `make all` and `make gpu`. GPU solution will be stored in `gpu`, CPU solution will be stored in `tools/cracker`. 
