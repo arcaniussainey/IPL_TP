@@ -1,5 +1,7 @@
 Implementations for parallel problem. 
 
+I have included screenshots & verification in the term proj, alongside the repo. 
+
 md5
 ```c
 #include <stdint.h>
